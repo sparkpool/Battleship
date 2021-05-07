@@ -1,0 +1,19 @@
+Player1
+OO___
+_X___
+B__X_
+____B
+___X_
+
+
+Player2
+_X___
+_____
+___X_
+BO__B
+_X_O_
+
+
+Player1:3
+Player2:3
+It's a draw
