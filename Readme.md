@@ -1,4 +1,4 @@
-#Battleship Game
+# Battleship Game
 
 This game is for two players who will play on a square grid where each player will set their ships on the cell of a grid 
 and then each player will get a chance to destroy opponent ship by guessing its coordinates.
